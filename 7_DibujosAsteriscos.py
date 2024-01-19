@@ -1,4 +1,4 @@
-#Escriba un programa que pida al usuario ingresar la altura y el ancho de un rectángulo y lo dibuje utilizando asteriscos:
+#Escriba un programa que pida al usuario ingresar la el tamaño de las siguientes figuras geometricas: Rectangulo - Triangulo y hexagono
 
 def rectangulo():
 
