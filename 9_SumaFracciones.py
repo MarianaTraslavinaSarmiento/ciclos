@@ -4,7 +4,7 @@
 fraccion = 1
 exponente = 1
 suma = 0
-print(f"Potencia    Fraccion     Suma ")
+print("Potencia    Fraccion     Suma ")
 
 while fraccion>0.000001:
     fraccion = 1/2**exponente
