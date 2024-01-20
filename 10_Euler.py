@@ -1,7 +1,6 @@
 
 #Desarrolle un programa que entregue un valor aproximado de e, calculando esta suma hasta que la diferencia entre dos sumandos consecutivos sea menor que 0,0001.
 
-
 from math import factorial
 
 
