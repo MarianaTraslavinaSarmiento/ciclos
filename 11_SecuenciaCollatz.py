@@ -20,5 +20,22 @@ punto1()
 
 def punto2():
 
+    n = int(input("n: "))
+
+    for I in range (1, n+1):
+        new = I
+        asteriscos = 1
+        while new!=1:
+            if new%2==0:
+                new=int(new/2)
+                asteriscos += 1
+            else:
+                new=(new*3+1)
     
+        print(I, asteriscos*"*")
+
+punto2()
+
+
+
 
